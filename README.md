@@ -1,3 +1,3 @@
 # dieses Script nach OS installation ausführen:
-clone
+clone/n
 chmod +x first_install.sh && ./first_install
